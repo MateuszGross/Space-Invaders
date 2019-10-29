@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1498316221 source:d:\programy\zxcv\main.c
+	<allegro.h>
+	<allegro/keyboard.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1572355005 source:f:\z pobranyhc\zxcv\zxcv\main.c
+	<allegro.h>
+	<allegro/keyboard.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+

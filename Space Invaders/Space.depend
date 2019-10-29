@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572355005 source:f:\z pobranyhc\zxcv\space invaders\main.c
+	<allegro.h>
+	<allegro/keyboard.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
